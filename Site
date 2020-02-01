@@ -1,1 +1,132 @@
 
+<html lang="ua">
+
+<style>
+
+@font-face {
+
+    font-family:my3; /* Гарнитура шрифта */
+
+    src: url(Download/18872.ttf); /* Путь к файлу со шрифтом */
+
+   }
+
+@font-face {
+
+    font-family:my2; /* Гарнитура шрифта */
+
+    src: url(Download/8732.ttf); /* Путь к файлу со шрифтом */
+
+   }
+
+@font-face {
+
+    font-family:my1; /* Гарнитура шрифта */
+
+    src: url(Download/15545.ttf); /* Путь к файлу со шрифтом */
+
+   }
+
+@font-face {
+
+    font-family:my; /* Гарнитура шрифта */
+
+    src: url(Download/8398.ttf); /* Путь к файлу со шрифтом */
+
+   }
+
+   b {
+
+   font-family:my;
+
+   }
+
+   h1 {
+
+   font-family:my1;
+
+   }
+
+   li {
+
+   font-family:my2;
+
+   }
+
+   h3 {
+
+   font-family:my3;
+
+   }
+
+  body {
+
+   background:
+
+    url(DCIM/lol.jpg) /* Путь к файлу с рисунком фона */
+
+    right top /* Положение в правом верхнем углу */
+
+    no-repeat /* Не повторять рисунок */
+
+    fixed; /* Зафиксировать фон */
+
+  }
+
+ </style>
+
+<body text="Brown">
+
+<font color="black">
+
+<center><p"><h1>Здоров</h1></p></center>
+
+</font>
+
+<b><p>Це мій сотий сайт зроблений на HTML язику.Коли я вчився кодувати то мені було дуже важко і я не розумів.Але з часом я навчився і ось тепер маю сайт. Сподіваюсь ви прочитали все бо тут буде багато різної фігні!</p></b>
+
+<br>
+
+<font color="Red">
+
+<p><b>Про мене:</b></p>
+
+</font>
+
+<font color="orange">
+
+<li>13 років</li>
+
+<li>Люблю кодувати</li>
+
+<li>Маю практику над 3д дизайном</li>
+
+<li>Не дуже люблю Літературу</li>
+
+<li>Багато сижу за телефоном</li>
+
+</font>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font color="blue">
+
+<center><p><h3>By Коньовшій Ігор</h3></p></center>
+
+</font>
+
+</body>
+
+</body>
+
+</html>
